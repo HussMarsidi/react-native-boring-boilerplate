@@ -1,6 +1,6 @@
 # Boring boilerplate ToDo
 
-### Todo
+### In Pipeline
 
 - [ ] Setup React Navigation
 - [ ] Reusable component template
@@ -8,7 +8,7 @@
 - [ ] Reusable component storybook
 - [ ] Setup Redux
 
-### In Progress
+### Currently working on
 
 - [ ] Setup Eslint
 - [ ] Make the code run on iOS
@@ -17,6 +17,7 @@
 
 ### Done ✓
 
-- [x] Create my first TODO.md
-- [x] setup typescript
-- [x] create gitignore
+- ✅ Create my first TODO.md
+- ✅ Setup typescript
+- ✅ Create gitignore
+- ✅ Setup Eslint
