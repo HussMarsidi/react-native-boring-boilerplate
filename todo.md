@@ -2,15 +2,18 @@
 
 ### In Pipeline
 
-- [ ] Setup React Navigation
-- [ ] Reusable component template
-- [ ] Reusable component testing
-- [ ] Reusable component storybook
-- [ ] Setup Redux
+- [ ] Reusable component
+- [ ] Setup testing
+- [ ] Setup storybook
+
+- [ ] Setup redux
+- [ ] Setup api service
+- [ ] Setup i18n
+- [ ] Setup navigation
+- [ ] Reusable component generator
 
 ### Currently working on
 
-- [ ] Setup Eslint
 - [ ] Make the code run on iOS
 - [ ] Setup file structure
 - [ ] Deploy to NPM
