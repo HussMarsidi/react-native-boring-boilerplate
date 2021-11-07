@@ -24,3 +24,4 @@
 - ✅ Setup typescript
 - ✅ Create gitignore
 - ✅ Setup Eslint
+- ✅ Setup file structure
